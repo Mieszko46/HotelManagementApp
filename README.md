@@ -1,4 +1,4 @@
-Instruction
+<h3>Instruction</h3>
 
 To prepare the data files for the project go to the bin folder then \Debug\.net8.0\ and put there hotels.json and bookings.json. I will post my bin folder with some data, so you can easier test the application.
 
@@ -17,7 +17,7 @@ Availability(H2, 20240901, SGL)
 Availability(H2, 20240903-20240905, DBL)
 
 
-Assumptions
+<h3>Assumptions</h3>
 
 1. I assume that if we check the availability of a room on one specific day, it means that 
 arrival will take place on that day and departure on the next day, i.e.
