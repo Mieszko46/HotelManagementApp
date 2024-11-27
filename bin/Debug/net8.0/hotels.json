@@ -1,0 +1,50 @@
+[
+  {
+    "Id": "H1",
+    "Name": "Hotel California",
+    "RoomTypes": [
+      {
+        "Code": "SGL",
+        "Description": "Single Room",
+        "Amenities": ["WiFi", "TV"],
+        "Features": ["Non-smoking"]
+      },
+      {
+        "Code": "DBL",
+        "Description": "Double Room",
+        "Amenities": ["WiFi", "TV", "Minibar"],
+        "Features": ["Non-smoking", "Sea View"]
+      }
+    ],
+    "Rooms": [
+      { "RoomType": "SGL", "RoomId": "101" },
+      { "RoomType": "SGL", "RoomId": "102" },
+      { "RoomType": "DBL", "RoomId": "201" },
+      { "RoomType": "DBL", "RoomId": "202" }
+    ]
+  },
+  {
+    "Id": "H2",
+    "Name": "Grand Plaza",
+    "RoomTypes": [
+      {
+        "Code": "SGL",
+        "Description": "Single Room",
+        "Amenities": ["WiFi"],
+        "Features": ["Smoking Allowed"]
+      },
+      {
+        "Code": "DBL",
+        "Description": "Double Room",
+        "Amenities": ["WiFi", "TV"],
+        "Features": ["Non-smoking"]
+      }
+    ],
+    "Rooms": [
+      { "RoomType": "SGL", "RoomId": "301" },
+      { "RoomType": "SGL", "RoomId": "302" },
+      { "RoomType": "DBL", "RoomId": "401" },
+      { "RoomType": "DBL", "RoomId": "402" }
+    ]
+  }
+]

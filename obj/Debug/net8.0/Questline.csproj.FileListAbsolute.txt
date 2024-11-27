@@ -1,0 +1,14 @@
+C:\_PROGRAMOWANIE\Praca\Questline\obj\Debug\net8.0\Questline.GeneratedMSBuildEditorConfig.editorconfig
+C:\_PROGRAMOWANIE\Praca\Questline\obj\Debug\net8.0\Questline.AssemblyInfoInputs.cache
+C:\_PROGRAMOWANIE\Praca\Questline\obj\Debug\net8.0\Questline.AssemblyInfo.cs
+C:\_PROGRAMOWANIE\Praca\Questline\obj\Debug\net8.0\Questline.csproj.CoreCompileInputs.cache
+C:\_PROGRAMOWANIE\Praca\Questline\bin\Debug\net8.0\Questline.exe
+C:\_PROGRAMOWANIE\Praca\Questline\bin\Debug\net8.0\Questline.deps.json
+C:\_PROGRAMOWANIE\Praca\Questline\bin\Debug\net8.0\Questline.runtimeconfig.json
+C:\_PROGRAMOWANIE\Praca\Questline\bin\Debug\net8.0\Questline.dll
+C:\_PROGRAMOWANIE\Praca\Questline\bin\Debug\net8.0\Questline.pdb
+C:\_PROGRAMOWANIE\Praca\Questline\obj\Debug\net8.0\Questline.dll
+C:\_PROGRAMOWANIE\Praca\Questline\obj\Debug\net8.0\refint\Questline.dll
+C:\_PROGRAMOWANIE\Praca\Questline\obj\Debug\net8.0\Questline.pdb
+C:\_PROGRAMOWANIE\Praca\Questline\obj\Debug\net8.0\Questline.genruntimeconfig.cache
+C:\_PROGRAMOWANIE\Praca\Questline\obj\Debug\net8.0\ref\Questline.dll
